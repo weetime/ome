@@ -29,7 +29,7 @@ require (
 	gomodules.xyz/jsonpatch/v2 v2.5.0
 	google.golang.org/protobuf v1.36.11
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
-	istio.io/api v1.19.4
+	istio.io/api v1.30.3
 	istio.io/client-go v1.19.4
 	k8s.io/api v0.33.13
 	k8s.io/apimachinery v0.33.13

@@ -422,8 +422,8 @@ gopkg.in/natefinch/lumberjack.v2 v2.2.1/go.mod h1:YD8tP3GAjkrDg1eZH7EGmyESg/lsYs
 gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
 gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
-istio.io/api v1.19.4 h1:uKSnHcsUTZBUr09xY+Vu30QCMsmwU3lssNYaVFcPewY=
-istio.io/api v1.19.4/go.mod h1:KstZe4bKbXouALUJ5PqpjNEhu5nj90HrDFitZfpNhlU=
+istio.io/api v1.30.3 h1:pPSa0uah/t7CEuwacS4rw5qK/oHGvxC0WO8i4RRGwEU=
+istio.io/api v1.30.3/go.mod h1:+brQWcBHoROuyA6fv8rbgg8Kfn0RCGuqoY0duCMuSLA=
 istio.io/client-go v1.19.4 h1:lnAxz4iORxjEWoLBiGxAykVeiH+dgAvsFDQYOC5KnyM=
 istio.io/client-go v1.19.4/go.mod h1:PQVSJB3q5BX8A6HC5sOQ3oA5CA7CB1c22EZ+8f+IC8M=
 k8s.io/api v0.33.13 h1:Au/I/J8SXmcCBxp+KiS82451AEaKjVHouB1x3lUm1Wk=
